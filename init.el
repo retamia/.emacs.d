@@ -25,6 +25,8 @@
 (require 'init-auto-complete)
 (require 'init-php)
 (require 'init-ac-php)
+(require 'init-flycheck)
+(require 'init-git)
 ;;(require 'init-fonts)
 ;;(require 'init-editing-utils)
 ;;(require 'init-markdown)
