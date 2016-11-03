@@ -1,7 +1,7 @@
 ;; init-php.el
 (require-package 'php-mode)
 
-(add-hook 'php-mode-hook 'php-enable-symfony2-coding-style)
+(add-hook 'php-mode-hook 'php-enable-default-coding-style)
 
 
 
